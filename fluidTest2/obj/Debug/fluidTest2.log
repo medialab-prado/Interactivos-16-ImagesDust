@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (obj\Debug\) contains files shared from another project (fluidTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ofApp.cpp
+  fluidTest2.vcxproj -> C:\of_v0.9.3_vs_release\apps\myApps\fluidTest2\bin\fluidTest2_debug.exe
+  
+  	                   9	C:\of_v0.9.3_vs_release\export\vs\Win32\
